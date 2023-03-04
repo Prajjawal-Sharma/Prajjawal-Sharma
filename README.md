@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Development.
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on DAPPS
-- 📫 How to reach me https://t.me/sharmapraj
+- 📫 How to reach me https://telegram.me/sharmapraj
 
 
 <a href="https://visitcount.itsvg.in">
