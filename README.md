@@ -6,14 +6,14 @@
 
 # Github Stats:
 
-[![Prajjawal's github stats](https://github-readme-stats.vercel.app/api?username=Prajjawal-Sharma&show_icons=true&theme=algolia&border_radius=5.5)](https://github.com/Swarga-codes)
+[![Prajjawal's github stats](https://github-readme-stats.vercel.app/api?username=Prajjawal-Sharma&show_icons=true&theme=midnight-purple&border_radius=20)](https://github.com/Prajjawal-Sharma)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prajjawal-Sharma&theme=algolia&border_radius=5.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prajjawal-Sharma&theme=midnight-purple&border_radius=20)](https://git.io/streak-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjawal-Sharma&layout=compact&theme=algolia&border_radius=5.5)](https://github.com/Prajjawal-Sharma)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjawal-Sharma&layout=compact&theme=midnight-purple&border_radius=20)](https://github.com/Prajjawal-Sharma)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Prajjawal&label=Profile%20Views&color=1&icon=6&pretty=true" />
