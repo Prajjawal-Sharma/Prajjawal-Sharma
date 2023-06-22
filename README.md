@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Prajjawal Sharma.
-- 👀 I’m interested in Blockchain Development.
+##  Hi, I’m Prajjawal Sharma 👋
+- 👀 I’m interested in Blockchain Development and web3
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on DAPPS
 - 📫 How to reach me https://telegram.me/sharmapraj
