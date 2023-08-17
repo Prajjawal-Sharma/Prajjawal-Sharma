@@ -15,9 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjawal-Sharma&layout=compact&theme=midnight-purple&border_radius=20)](https://github.com/Prajjawal-Sharma)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Prajjawal&label=Profile%20Views&color=1&icon=6&pretty=true" />
-</a>
 
 ![](https://komarev.com/ghpvc/?username=Prajjawal-Sharma&color=blue)
 <!---
