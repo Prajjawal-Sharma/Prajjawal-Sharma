@@ -19,6 +19,7 @@
   <img src="https://visitcount.itsvg.in/api?id=Prajjawal&label=Profile%20Views&color=1&icon=6&pretty=true" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=Prajjawal-Sharma&color=blue)
 <!---
 sharmaprajjawal/sharmaprajjawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
